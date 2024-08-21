@@ -31,8 +31,8 @@ This repository contains code developed at **42 Piscine**, from **18/11/2023** t
 	
 | Shell Project | Grade | Evaluation Information |
 | :--- | :--- | :--- |
-| [Piscine Shell 00](https://github.com/jotavare/42-piscine/tree/main/piscine/C%20Piscine%20Shell%2000) | <img src="https://img.shields.io/badge/60%20%2F%20100-success"/> | `2 peers` `15 mins` `moulinette` |
-| [Piscine Shell 01](https://github.com/jotavare/42-piscine/tree/main/piscine/C%20Piscine%20Shell%2001) | <img src="https://img.shields.io/badge/55%20%2F%20100-success"/> | `2 peers` `15 mins` `moulinette` |
+| [Piscine Shell 00](https://github.com/RafaelKitoco/42-piscine/tree/main/piscine/C%20Piscine%20Shell%2000) | <img src="https://img.shields.io/badge/60%20%2F%20100-success"/> | `2 peers` `15 mins` `moulinette` |
+| [Piscine Shell 01](https://github.com/RafaelKitoco/42-piscine/tree/main/piscine/C%20Piscine%20Shell%2001) | <img src="https://img.shields.io/badge/55%20%2F%20100-success"/> | `2 peers` `15 mins` `moulinette` |
 
 | C Project | Grade | Evaluation Information |
 | :--- | :--- | :--- |
